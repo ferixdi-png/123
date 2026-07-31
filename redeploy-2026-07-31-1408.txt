@@ -1,0 +1,2 @@
+Force GitHub Pages rebuild after replacing the gh-pages branch with the no-table-of-contents version.
+Timestamp: 2026-07-31 14:08 +03:00
